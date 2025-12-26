@@ -1,8 +1,8 @@
-# Bote plegable tipo catarraft (y variantes)
+![Concepto (generado con IA)](./docs/assets/logo-cut.png)
 
 Este repositorio contiene los diseños de piezas en Solidworks 2020 para la fabricación de un bote plegable tipo catarraft, copia del producto de fabricación nacional, ya discontinuado, denominado [Amibote](http://www.amibote.com.ar/).
 
-![Concepto (generado con IA)](./docs/assets/concept-ia.png)
+![Concepto (generado con IA)](./docs/assets/concept-ia.jpg)
 
 **Organización**
 
